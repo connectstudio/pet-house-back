@@ -1,0 +1,68 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetHouse.Api", "PetHouse.Api\PetHouse.Api.csproj", "{63D58904-03B7-44E6-AC6A-7C791A3336E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetHouse.Application", "PetHouse.Application\PetHouse.Application.csproj", "{48C9F9AB-66F2-4EBA-8ED6-D00902601D54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetHouse.Domain", "PetHouse.Domain\PetHouse.Domain.csproj", "{DC4F58A2-114C-4E29-963C-24C055E6257D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetHouse.Infrastructure", "PetHouse.Infrastructure\PetHouse.Infrastructure.csproj", "{8FDD5CF8-0AD3-4620-9DB4-9308D81BF075}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetHouse.Identity", "PetHouse.Identity\PetHouse.Identity.csproj", "{11B977C3-56CE-4982-B9AA-17082FE39113}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetHouse.GeneralConstants", "PetHouse.GeneralConstants\PetHouse.GeneralConstants.csproj", "{C4A0F066-FE6E-4FD7-B612-F873AA6DEA4B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{AEC29018-5FD5-47A6-B9A5-EB84C7D765C5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Security", "Security", "{ED0A0643-F490-44EA-8F36-5560FC21A159}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63D58904-03B7-44E6-AC6A-7C791A3336E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63D58904-03B7-44E6-AC6A-7C791A3336E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63D58904-03B7-44E6-AC6A-7C791A3336E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63D58904-03B7-44E6-AC6A-7C791A3336E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48C9F9AB-66F2-4EBA-8ED6-D00902601D54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48C9F9AB-66F2-4EBA-8ED6-D00902601D54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48C9F9AB-66F2-4EBA-8ED6-D00902601D54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48C9F9AB-66F2-4EBA-8ED6-D00902601D54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC4F58A2-114C-4E29-963C-24C055E6257D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC4F58A2-114C-4E29-963C-24C055E6257D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC4F58A2-114C-4E29-963C-24C055E6257D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC4F58A2-114C-4E29-963C-24C055E6257D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FDD5CF8-0AD3-4620-9DB4-9308D81BF075}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FDD5CF8-0AD3-4620-9DB4-9308D81BF075}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FDD5CF8-0AD3-4620-9DB4-9308D81BF075}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FDD5CF8-0AD3-4620-9DB4-9308D81BF075}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11B977C3-56CE-4982-B9AA-17082FE39113}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11B977C3-56CE-4982-B9AA-17082FE39113}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11B977C3-56CE-4982-B9AA-17082FE39113}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11B977C3-56CE-4982-B9AA-17082FE39113}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4A0F066-FE6E-4FD7-B612-F873AA6DEA4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4A0F066-FE6E-4FD7-B612-F873AA6DEA4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4A0F066-FE6E-4FD7-B612-F873AA6DEA4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4A0F066-FE6E-4FD7-B612-F873AA6DEA4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{63D58904-03B7-44E6-AC6A-7C791A3336E9} = {AEC29018-5FD5-47A6-B9A5-EB84C7D765C5}
+		{48C9F9AB-66F2-4EBA-8ED6-D00902601D54} = {AEC29018-5FD5-47A6-B9A5-EB84C7D765C5}
+		{DC4F58A2-114C-4E29-963C-24C055E6257D} = {AEC29018-5FD5-47A6-B9A5-EB84C7D765C5}
+		{8FDD5CF8-0AD3-4620-9DB4-9308D81BF075} = {AEC29018-5FD5-47A6-B9A5-EB84C7D765C5}
+		{11B977C3-56CE-4982-B9AA-17082FE39113} = {AEC29018-5FD5-47A6-B9A5-EB84C7D765C5}
+		{C4A0F066-FE6E-4FD7-B612-F873AA6DEA4B} = {AEC29018-5FD5-47A6-B9A5-EB84C7D765C5}
+		{ED0A0643-F490-44EA-8F36-5560FC21A159} = {AEC29018-5FD5-47A6-B9A5-EB84C7D765C5}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A265558-3918-4E0F-96A6-1EDE242D84FD}
+	EndGlobalSection
+EndGlobal

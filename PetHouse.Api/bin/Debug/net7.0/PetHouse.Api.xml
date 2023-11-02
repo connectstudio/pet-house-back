@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>PetHouse.Api</name>
+    </assembly>
+    <members>
+        <member name="M:PetHouse.Api.Controllers.UserController.CaregiverInsertAsync(PetHouse.Application.DTOs.User.CaregiverInsertRequest)">
+            <summary>
+            Cadastra um novo usuário cuidador.
+            </summary>
+            <remarks>
+            </remarks>
+            <returns></returns>
+            <response code="201">Retorna sucesso em caso de um cadastro bem sucedido</response>
+            <response code="400">Retorna erros caso ocorram</response>
+        </member>
+        <member name="M:PetHouse.Api.Controllers.UserController.UserAdminInsertAsync(PetHouse.Application.DTOs.User.UserAdminInsertRequest)">
+            <summary>
+            Cadastra um novo usuário administrador.
+            </summary>
+            <remarks>
+            </remarks>
+            <returns></returns>
+            <response code="201">Retorna sucesso em caso de um cadastro bem sucedido</response>
+            <response code="400">Retorna erros caso ocorram</response>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "PetHouse.GeneralConstants/1.0.0": {
+        "dependencies": {
+          "PetHouse.Application": "1.0.0"
+        },
+        "runtime": {
+          "PetHouse.GeneralConstants.dll": {}
+        }
+      },
+      "PetHouse.Application/1.0.0": {
+        "runtime": {
+          "PetHouse.Application.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PetHouse.GeneralConstants/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PetHouse.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

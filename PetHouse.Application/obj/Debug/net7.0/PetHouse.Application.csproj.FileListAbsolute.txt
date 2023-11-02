@@ -1,0 +1,11 @@
+C:\Users\marco\OneDrive\Área de Trabalho\Pet-House\PetHouse.Api\PetHouse.Application\bin\Debug\net7.0\PetHouse.Application.deps.json
+C:\Users\marco\OneDrive\Área de Trabalho\Pet-House\PetHouse.Api\PetHouse.Application\bin\Debug\net7.0\PetHouse.Application.dll
+C:\Users\marco\OneDrive\Área de Trabalho\Pet-House\PetHouse.Api\PetHouse.Application\bin\Debug\net7.0\PetHouse.Application.pdb
+C:\Users\marco\OneDrive\Área de Trabalho\Pet-House\PetHouse.Api\PetHouse.Application\obj\Debug\net7.0\PetHouse.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\OneDrive\Área de Trabalho\Pet-House\PetHouse.Api\PetHouse.Application\obj\Debug\net7.0\PetHouse.Application.AssemblyInfoInputs.cache
+C:\Users\marco\OneDrive\Área de Trabalho\Pet-House\PetHouse.Api\PetHouse.Application\obj\Debug\net7.0\PetHouse.Application.AssemblyInfo.cs
+C:\Users\marco\OneDrive\Área de Trabalho\Pet-House\PetHouse.Api\PetHouse.Application\obj\Debug\net7.0\PetHouse.Application.csproj.CoreCompileInputs.cache
+C:\Users\marco\OneDrive\Área de Trabalho\Pet-House\PetHouse.Api\PetHouse.Application\obj\Debug\net7.0\PetHouse.Application.dll
+C:\Users\marco\OneDrive\Área de Trabalho\Pet-House\PetHouse.Api\PetHouse.Application\obj\Debug\net7.0\refint\PetHouse.Application.dll
+C:\Users\marco\OneDrive\Área de Trabalho\Pet-House\PetHouse.Api\PetHouse.Application\obj\Debug\net7.0\PetHouse.Application.pdb
+C:\Users\marco\OneDrive\Área de Trabalho\Pet-House\PetHouse.Api\PetHouse.Application\obj\Debug\net7.0\ref\PetHouse.Application.dll

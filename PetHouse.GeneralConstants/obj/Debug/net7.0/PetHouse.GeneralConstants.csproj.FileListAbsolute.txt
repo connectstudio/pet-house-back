@@ -1,0 +1,15 @@
+C:\Users\marco\OneDrive\Área de Trabalho\Pet-House\PetHouse.Api\PetHouse.GeneralConstants\bin\Debug\net7.0\PetHouse.GeneralConstants.deps.json
+C:\Users\marco\OneDrive\Área de Trabalho\Pet-House\PetHouse.Api\PetHouse.GeneralConstants\bin\Debug\net7.0\PetHouse.GeneralConstants.dll
+C:\Users\marco\OneDrive\Área de Trabalho\Pet-House\PetHouse.Api\PetHouse.GeneralConstants\bin\Debug\net7.0\PetHouse.GeneralConstants.pdb
+C:\Users\marco\OneDrive\Área de Trabalho\Pet-House\PetHouse.Api\PetHouse.GeneralConstants\obj\Debug\net7.0\PetHouse.GeneralConstants.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\OneDrive\Área de Trabalho\Pet-House\PetHouse.Api\PetHouse.GeneralConstants\obj\Debug\net7.0\PetHouse.GeneralConstants.AssemblyInfoInputs.cache
+C:\Users\marco\OneDrive\Área de Trabalho\Pet-House\PetHouse.Api\PetHouse.GeneralConstants\obj\Debug\net7.0\PetHouse.GeneralConstants.AssemblyInfo.cs
+C:\Users\marco\OneDrive\Área de Trabalho\Pet-House\PetHouse.Api\PetHouse.GeneralConstants\obj\Debug\net7.0\PetHouse.GeneralConstants.csproj.CoreCompileInputs.cache
+C:\Users\marco\OneDrive\Área de Trabalho\Pet-House\PetHouse.Api\PetHouse.GeneralConstants\obj\Debug\net7.0\PetHouse.GeneralConstants.dll
+C:\Users\marco\OneDrive\Área de Trabalho\Pet-House\PetHouse.Api\PetHouse.GeneralConstants\obj\Debug\net7.0\refint\PetHouse.GeneralConstants.dll
+C:\Users\marco\OneDrive\Área de Trabalho\Pet-House\PetHouse.Api\PetHouse.GeneralConstants\obj\Debug\net7.0\PetHouse.GeneralConstants.pdb
+C:\Users\marco\OneDrive\Área de Trabalho\Pet-House\PetHouse.Api\PetHouse.GeneralConstants\obj\Debug\net7.0\ref\PetHouse.GeneralConstants.dll
+C:\Users\marco\OneDrive\Área de Trabalho\Pet-House\PetHouse.Api\PetHouse.GeneralConstants\obj\Debug\net7.0\PetHouse.GeneralConstants.csproj.AssemblyReference.cache
+C:\Users\marco\OneDrive\Área de Trabalho\Pet-House\PetHouse.Api\PetHouse.GeneralConstants\bin\Debug\net7.0\PetHouse.Application.dll
+C:\Users\marco\OneDrive\Área de Trabalho\Pet-House\PetHouse.Api\PetHouse.GeneralConstants\bin\Debug\net7.0\PetHouse.Application.pdb
+C:\Users\marco\OneDrive\Área de Trabalho\Pet-House\PetHouse.Api\PetHouse.GeneralConstants\obj\Debug\net7.0\PetHouse.GeneralConstants.csproj.CopyComplete
