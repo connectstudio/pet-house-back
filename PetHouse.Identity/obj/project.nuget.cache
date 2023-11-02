@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "r4aTtw4ezNQ4KGthNDdv7ZdJJij7iRXDm6BdzD9qrAVpQ31dD50L8/aeYIJ1eYhyrNy7MOJuSmL8k069JqxnCg==",
+  "dgSpecHash": "XalwtCJwJ72kxRkjz2ek5ICBcID0oFrOuw85u1St14QuB5lpS+gqXuKbx/cWGdPxjzdZavkZvOdXkZYRPGTO7g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\marco\\OneDrive\\Área de Trabalho\\Pet-House\\PetHouse.Api\\PetHouse.Identity\\PetHouse.Identity.csproj",
+  "projectFilePath": "C:\\Users\\marco\\OneDrive\\Área de Trabalho\\Pet-House\\PetHouse\\PetHouse.Identity\\PetHouse.Identity.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\marco\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
     "C:\\Users\\marco\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

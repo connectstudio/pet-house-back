@@ -40,7 +40,10 @@ public class IdentityService : IIdentityService
         return new UserLoginResponse
         (
             accessToken: accessToken,
-            refreshToken: refreshToken
+            refreshToken: refreshToken,
+            email,
+            user.Name,
+            user.CaregiverId == 0 ? "SUPPORT" : "CAREGIVER"
         );
     }
     public async Task<UserLoginResponse> LoginAsync(UserLoginRequest model)
@@ -77,6 +80,35 @@ public class IdentityService : IIdentityService
 
         return userLoginResponse;
     }
+
+    public async Task<IEnumerable<Permissions>> GetPermissionsAsync()
+    {
+        var permissions = new List<Permissions>()
+        {
+            new Permissions()
+            {
+                Type = "CUIDADOR",
+                Value = "APROVAR"
+            },
+            new Permissions()
+            {
+                Type = "CUIDADOR",
+                Value = "EXCLUIR"
+            },
+            new Permissions()
+            {
+                Type = "SUPPORT",
+                Value = "APROVAR"
+            },
+            new Permissions()
+            {
+                Type = "SUPPORT",
+                Value = "EXCLUIR"
+            },
+        };
+
+        return permissions;
+    }
     public string GenerateToken(IEnumerable<Claim> claims, DateTime expirationDate)
     {
         var jwt = new JwtSecurityToken(
@@ -112,4 +144,5 @@ public class IdentityService : IIdentityService
 
         return claims;
     }
+
 }

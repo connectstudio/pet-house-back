@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\marco\\OneDrive\\Área de Trabalho\\Pet-House\\PetHouse.Api\\PetHouse.Infrastructure\\PetHouse.Infrastructure.csproj": {}
+    "C:\\Users\\marco\\OneDrive\\Área de Trabalho\\Pet-House\\PetHouse\\PetHouse.Infrastructure\\PetHouse.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\marco\\OneDrive\\Área de Trabalho\\Pet-House\\PetHouse.Api\\PetHouse.Domain\\PetHouse.Domain.csproj": {
+    "C:\\Users\\marco\\OneDrive\\Área de Trabalho\\Pet-House\\PetHouse\\PetHouse.Domain\\PetHouse.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marco\\OneDrive\\Área de Trabalho\\Pet-House\\PetHouse.Api\\PetHouse.Domain\\PetHouse.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\marco\\OneDrive\\Área de Trabalho\\Pet-House\\PetHouse\\PetHouse.Domain\\PetHouse.Domain.csproj",
         "projectName": "PetHouse.Domain",
-        "projectPath": "C:\\Users\\marco\\OneDrive\\Área de Trabalho\\Pet-House\\PetHouse.Api\\PetHouse.Domain\\PetHouse.Domain.csproj",
+        "projectPath": "C:\\Users\\marco\\OneDrive\\Área de Trabalho\\Pet-House\\PetHouse\\PetHouse.Domain\\PetHouse.Domain.csproj",
         "packagesPath": "C:\\Users\\marco\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marco\\OneDrive\\Área de Trabalho\\Pet-House\\PetHouse.Api\\PetHouse.Domain\\obj\\",
+        "outputPath": "C:\\Users\\marco\\OneDrive\\Área de Trabalho\\Pet-House\\PetHouse\\PetHouse.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -70,14 +70,14 @@
         }
       }
     },
-    "C:\\Users\\marco\\OneDrive\\Área de Trabalho\\Pet-House\\PetHouse.Api\\PetHouse.Infrastructure\\PetHouse.Infrastructure.csproj": {
+    "C:\\Users\\marco\\OneDrive\\Área de Trabalho\\Pet-House\\PetHouse\\PetHouse.Infrastructure\\PetHouse.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marco\\OneDrive\\Área de Trabalho\\Pet-House\\PetHouse.Api\\PetHouse.Infrastructure\\PetHouse.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\marco\\OneDrive\\Área de Trabalho\\Pet-House\\PetHouse\\PetHouse.Infrastructure\\PetHouse.Infrastructure.csproj",
         "projectName": "PetHouse.Infrastructure",
-        "projectPath": "C:\\Users\\marco\\OneDrive\\Área de Trabalho\\Pet-House\\PetHouse.Api\\PetHouse.Infrastructure\\PetHouse.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\marco\\OneDrive\\Área de Trabalho\\Pet-House\\PetHouse\\PetHouse.Infrastructure\\PetHouse.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\marco\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marco\\OneDrive\\Área de Trabalho\\Pet-House\\PetHouse.Api\\PetHouse.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\marco\\OneDrive\\Área de Trabalho\\Pet-House\\PetHouse\\PetHouse.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -99,8 +99,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\marco\\OneDrive\\Área de Trabalho\\Pet-House\\PetHouse.Api\\PetHouse.Domain\\PetHouse.Domain.csproj": {
-                "projectPath": "C:\\Users\\marco\\OneDrive\\Área de Trabalho\\Pet-House\\PetHouse.Api\\PetHouse.Domain\\PetHouse.Domain.csproj"
+              "C:\\Users\\marco\\OneDrive\\Área de Trabalho\\Pet-House\\PetHouse\\PetHouse.Domain\\PetHouse.Domain.csproj": {
+                "projectPath": "C:\\Users\\marco\\OneDrive\\Área de Trabalho\\Pet-House\\PetHouse\\PetHouse.Domain\\PetHouse.Domain.csproj"
               }
             }
           }

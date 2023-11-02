@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\marco\\OneDrive\\Área de Trabalho\\Pet-House\\PetHouse.Api\\PetHouse.GeneralConstants\\PetHouse.GeneralConstants.csproj": {}
+    "C:\\Users\\marco\\OneDrive\\Área de Trabalho\\Pet-House\\PetHouse\\PetHouse.GeneralConstants\\PetHouse.GeneralConstants.csproj": {}
   },
   "projects": {
-    "C:\\Users\\marco\\OneDrive\\Área de Trabalho\\Pet-House\\PetHouse.Api\\PetHouse.Application\\PetHouse.Application.csproj": {
+    "C:\\Users\\marco\\OneDrive\\Área de Trabalho\\Pet-House\\PetHouse\\PetHouse.Application\\PetHouse.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marco\\OneDrive\\Área de Trabalho\\Pet-House\\PetHouse.Api\\PetHouse.Application\\PetHouse.Application.csproj",
+        "projectUniqueName": "C:\\Users\\marco\\OneDrive\\Área de Trabalho\\Pet-House\\PetHouse\\PetHouse.Application\\PetHouse.Application.csproj",
         "projectName": "PetHouse.Application",
-        "projectPath": "C:\\Users\\marco\\OneDrive\\Área de Trabalho\\Pet-House\\PetHouse.Api\\PetHouse.Application\\PetHouse.Application.csproj",
+        "projectPath": "C:\\Users\\marco\\OneDrive\\Área de Trabalho\\Pet-House\\PetHouse\\PetHouse.Application\\PetHouse.Application.csproj",
         "packagesPath": "C:\\Users\\marco\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marco\\OneDrive\\Área de Trabalho\\Pet-House\\PetHouse.Api\\PetHouse.Application\\obj\\",
+        "outputPath": "C:\\Users\\marco\\OneDrive\\Área de Trabalho\\Pet-House\\PetHouse\\PetHouse.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -64,14 +64,14 @@
         }
       }
     },
-    "C:\\Users\\marco\\OneDrive\\Área de Trabalho\\Pet-House\\PetHouse.Api\\PetHouse.GeneralConstants\\PetHouse.GeneralConstants.csproj": {
+    "C:\\Users\\marco\\OneDrive\\Área de Trabalho\\Pet-House\\PetHouse\\PetHouse.GeneralConstants\\PetHouse.GeneralConstants.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marco\\OneDrive\\Área de Trabalho\\Pet-House\\PetHouse.Api\\PetHouse.GeneralConstants\\PetHouse.GeneralConstants.csproj",
+        "projectUniqueName": "C:\\Users\\marco\\OneDrive\\Área de Trabalho\\Pet-House\\PetHouse\\PetHouse.GeneralConstants\\PetHouse.GeneralConstants.csproj",
         "projectName": "PetHouse.GeneralConstants",
-        "projectPath": "C:\\Users\\marco\\OneDrive\\Área de Trabalho\\Pet-House\\PetHouse.Api\\PetHouse.GeneralConstants\\PetHouse.GeneralConstants.csproj",
+        "projectPath": "C:\\Users\\marco\\OneDrive\\Área de Trabalho\\Pet-House\\PetHouse\\PetHouse.GeneralConstants\\PetHouse.GeneralConstants.csproj",
         "packagesPath": "C:\\Users\\marco\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marco\\OneDrive\\Área de Trabalho\\Pet-House\\PetHouse.Api\\PetHouse.GeneralConstants\\obj\\",
+        "outputPath": "C:\\Users\\marco\\OneDrive\\Área de Trabalho\\Pet-House\\PetHouse\\PetHouse.GeneralConstants\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -93,8 +93,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\marco\\OneDrive\\Área de Trabalho\\Pet-House\\PetHouse.Api\\PetHouse.Application\\PetHouse.Application.csproj": {
-                "projectPath": "C:\\Users\\marco\\OneDrive\\Área de Trabalho\\Pet-House\\PetHouse.Api\\PetHouse.Application\\PetHouse.Application.csproj"
+              "C:\\Users\\marco\\OneDrive\\Área de Trabalho\\Pet-House\\PetHouse\\PetHouse.Application\\PetHouse.Application.csproj": {
+                "projectPath": "C:\\Users\\marco\\OneDrive\\Área de Trabalho\\Pet-House\\PetHouse\\PetHouse.Application\\PetHouse.Application.csproj"
               }
             }
           }

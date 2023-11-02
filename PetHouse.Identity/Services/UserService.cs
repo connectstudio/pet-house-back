@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Identity;
 using PetHouse.Application.DTOs.Address;
+using PetHouse.Application.DTOs.Shared;
 using PetHouse.Application.DTOs.User;
 using PetHouse.Application.Interfaces.User;
 using PetHouse.Domain.Entities;
@@ -68,12 +69,38 @@ public class UserService : IUserService
         {
             await _userManager.AddClaimAsync(user, new Claim(currentPermission.Type, currentPermission.Value));
         }
-
-        await _roleManager.CreateAsync(new IdentityRole("MASTER"));
-        
-        await _userManager.AddToRoleAsync(user, "MASTER");
      
         return userRegisterResponse;
+    }
+
+    public async Task<DefaultResponse> DeleteUserAsync(string id)
+    {
+        var response = new DefaultResponse();
+        var user = await _userManager.FindByNameAsync("Marcosfelipehd777@gmail.com");
+
+        var result = await _userManager.DeleteAsync(user);
+
+        if (!result.Succeeded)
+        {
+            response.Sucess = false;
+            return response;
+        }
+
+        return response;
+    }
+
+    public async Task<IEnumerable<UsersResponse>> GetUsersAsync()
+    {
+        var result = (from users in _userManager.Users
+                      select new UsersResponse()
+                      {
+                          Email = users.Email,
+                          Name = users.Name,
+                          Office = users.Office,
+
+                      });
+
+        return result;
     }
 
     #region AUX

@@ -50,7 +50,7 @@ public class UserController : Controller
     /// <response code="400">Retorna erros caso ocorram</response>
     [ProducesResponseType(typeof(IEnumerable<UserRegisterResponse>), StatusCodes.Status201Created)]
     [ProducesResponseType(typeof(ProblemDetails), StatusCodes.Status400BadRequest)]
-    [HttpPost("/admin")]
+    [HttpPost("admin")]
     public async Task<ActionResult<UserRegisterResponse>> UserAdminInsertAsync(UserAdminInsertRequest request)
     {
         var response = await _userService.CreateUserAdminAsync(request);
@@ -72,4 +72,28 @@ public class UserController : Controller
         return BadRequest(response);
     }
 
+    [HttpGet("permissions")]
+    public async Task<ActionResult> GetPermissionsAsync()
+    {
+        return Ok(await _identityService.GetPermissionsAsync());
+    }
+
+    //[HttpDelete]
+    //public async Task<ActionResult> DeleteUserAsync(string userId)
+    //{
+    //    var result = await _userService.DeleteUserAsync(userId);
+
+    //    if(!result.Sucess)
+    //        return BadRequest(result);
+
+    //    return Ok(result);
+    //}
+
+    [HttpGet("allUsers")]
+    public async Task<ActionResult> GetAllUserAsync()
+    {
+        var result = await _userService.GetUsersAsync();
+
+        return Ok(result);
+    }
 }

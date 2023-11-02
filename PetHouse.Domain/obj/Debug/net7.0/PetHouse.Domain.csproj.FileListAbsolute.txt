@@ -10,3 +10,15 @@ C:\Users\marco\OneDrive\Área de Trabalho\Pet-House\PetHouse.Api\PetHouse.Domain
 C:\Users\marco\OneDrive\Área de Trabalho\Pet-House\PetHouse.Api\PetHouse.Domain\obj\Debug\net7.0\refint\PetHouse.Domain.dll
 C:\Users\marco\OneDrive\Área de Trabalho\Pet-House\PetHouse.Api\PetHouse.Domain\obj\Debug\net7.0\PetHouse.Domain.pdb
 C:\Users\marco\OneDrive\Área de Trabalho\Pet-House\PetHouse.Api\PetHouse.Domain\obj\Debug\net7.0\ref\PetHouse.Domain.dll
+C:\Users\marco\OneDrive\Área de Trabalho\Pet-House\PetHouse\PetHouse.Domain\bin\Debug\net7.0\PetHouse.Domain.deps.json
+C:\Users\marco\OneDrive\Área de Trabalho\Pet-House\PetHouse\PetHouse.Domain\bin\Debug\net7.0\PetHouse.Domain.dll
+C:\Users\marco\OneDrive\Área de Trabalho\Pet-House\PetHouse\PetHouse.Domain\bin\Debug\net7.0\PetHouse.Domain.pdb
+C:\Users\marco\OneDrive\Área de Trabalho\Pet-House\PetHouse\PetHouse.Domain\obj\Debug\net7.0\PetHouse.Domain.csproj.AssemblyReference.cache
+C:\Users\marco\OneDrive\Área de Trabalho\Pet-House\PetHouse\PetHouse.Domain\obj\Debug\net7.0\PetHouse.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\OneDrive\Área de Trabalho\Pet-House\PetHouse\PetHouse.Domain\obj\Debug\net7.0\PetHouse.Domain.AssemblyInfoInputs.cache
+C:\Users\marco\OneDrive\Área de Trabalho\Pet-House\PetHouse\PetHouse.Domain\obj\Debug\net7.0\PetHouse.Domain.AssemblyInfo.cs
+C:\Users\marco\OneDrive\Área de Trabalho\Pet-House\PetHouse\PetHouse.Domain\obj\Debug\net7.0\PetHouse.Domain.csproj.CoreCompileInputs.cache
+C:\Users\marco\OneDrive\Área de Trabalho\Pet-House\PetHouse\PetHouse.Domain\obj\Debug\net7.0\PetHouse.Domain.dll
+C:\Users\marco\OneDrive\Área de Trabalho\Pet-House\PetHouse\PetHouse.Domain\obj\Debug\net7.0\refint\PetHouse.Domain.dll
+C:\Users\marco\OneDrive\Área de Trabalho\Pet-House\PetHouse\PetHouse.Domain\obj\Debug\net7.0\PetHouse.Domain.pdb
+C:\Users\marco\OneDrive\Área de Trabalho\Pet-House\PetHouse\PetHouse.Domain\obj\Debug\net7.0\ref\PetHouse.Domain.dll

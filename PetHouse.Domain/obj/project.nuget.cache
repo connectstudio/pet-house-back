@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PV+jnB+unQVJgztTsbGG4l92r2PSqhLlVh/E/ioBI3hJKQDW98AA5dnY537lWDEZDEA0qbmAiaEzozWf19Hi8A==",
+  "dgSpecHash": "9czcVin1zIIOKnXCxA+FgySiSCWO2CEXcGptEq7FCIHrJH/8S1bdLDnxCTxZTLadj16x0/1or1OGludPfciwOw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\marco\\OneDrive\\Área de Trabalho\\Pet-House\\PetHouse.Api\\PetHouse.Domain\\PetHouse.Domain.csproj",
+  "projectFilePath": "C:\\Users\\marco\\OneDrive\\Área de Trabalho\\Pet-House\\PetHouse\\PetHouse.Domain\\PetHouse.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\marco\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\7.0.13\\microsoft.aspnetcore.cryptography.internal.7.0.13.nupkg.sha512",
     "C:\\Users\\marco\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\7.0.13\\microsoft.aspnetcore.cryptography.keyderivation.7.0.13.nupkg.sha512",
